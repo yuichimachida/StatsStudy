@@ -1,0 +1,2 @@
+# StatsStudy
+ここでは統計とRまたはPythonの勉強をメモする
