@@ -1,0 +1,10 @@
+homebrew
+  Python3 3.6.5
+  pip3
+    numpy
+    scipy
+    matplotlib
+    pandas
+    jupyter
+    
+    
