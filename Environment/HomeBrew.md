@@ -11,6 +11,3 @@ homebrew
 
 
 [参考にしたサイト](https://qiita.com/yoshizaki_kkgk/items/4663148a2b3ca078ddbc)
-
-tetst test test
-test test tetst
