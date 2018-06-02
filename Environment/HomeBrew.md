@@ -9,6 +9,5 @@ homebrew
 
 上のPip3パッケージはMacBookAirには未反映なのでよろしく
 
-Atomはインストール済み  
-TerminalでAtomが開かない場合は、  
-```Atom>install shell commands```
+
+[参考にしたサイト](https://qiita.com/yoshizaki_kkgk/items/4663148a2b3ca078ddbc)
