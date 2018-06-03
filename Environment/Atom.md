@@ -8,6 +8,7 @@
 * platformio-ide-terminal
 * file-icons
 * script
+* Project Manager
 
 
 
