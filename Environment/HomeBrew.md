@@ -1,5 +1,6 @@
 homebrew  
-  Python3 3.6.5  
+  Python(3.6.x)
+  pyenv
   pip3  
     numpy  
     scipy  
